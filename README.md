@@ -1,4 +1,4 @@
-### Project Description
+### SSRS Branding File Editor
 
 A new feature of branding has been introduced for SSRS in SQL Server 2016. This feature is useful for customizing the SSRS Report Manager Portal with Display colors and a logo also can be added to the portal. This Branding consists of a process of zipping and uploading the below 3 files into the SSRS Report Manager portal.
 
